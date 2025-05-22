@@ -5,7 +5,7 @@
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Vinci0007&amp;layout=compact&amp;theme=tokyonight)
 
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=Vinci0007&amp;repo=OpenS_ERP&amp;theme=dark)
-![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=Vinci0007&amp;repo=OpenS_ERP&amp;theme=dark)
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=Vinci0007&amp;repo=easy-dataset&amp;theme=dark)
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=Vinci0007&amp;repo=OpenS_ERP&amp;theme=dark)
 
 --------------------------------------------------------------------------------------------------------------------------------------
